@@ -1,21 +1,25 @@
-Parking Management System (C++)
-A console-based Parking Management System built using C++. The system allows users to park and unpark vehicles, calculate parking bills, and maintain logs of all activities in a text file (parking_log.txt).
+# 🚗 Parking Management System (C++)
 
-Features
-Add (park) vehicles: Car or Bike
+A simple yet efficient **console-based Parking Management System** built using **C++**. It allows users to park/unpark vehicles, calculate bills based on parking time, and log all details in a persistent text file.
 
-Auto-captures entry time and stores vehicle + owner details
+---
 
-Unpark a vehicle and:
+## 🛠️ Features
 
-Calculates time parked
+- ✅ Add and track **Cars** and **Bikes**
+- ✅ Automatically records **Entry Time** and **Exit Time**
+- ✅ Calculates bill based on hourly rates
+- ✅ Maintains persistent log in `parking_log.txt`
+- ✅ Updates vehicle status from **Parked** → **Unparked**
+- ✅ Retains all vehicle records (no deletion from memory)
 
-Generates bill based on hourly rate
+---
 
-Appends exit time and payment info to log
+## 📋 Menu Options
 
-Updates the vehicle status to "Unparked" (in the same log block)
+```text
+1. Park Vehicle
+2. View All Vehicles
+3. Unpark Vehicle & Generate Bill
+4. Exit
 
-Retains all vehicle records in memory (no deletion)
-
-Maintains a log file for all events
