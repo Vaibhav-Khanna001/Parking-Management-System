@@ -45,11 +45,12 @@ Bill Paid  :
 
 ## Technologies Used
 
-C++ 
-- ctime – for time and date functions
-- fstream – for file input/output
-- File Handling – to persist all logs in a .txt file
-- Object-Oriented Programming concepts:
- -- Classes & Objects
- -- Inheritance
- -- Polymorphism
+- **C++**
+  - `ctime` – for time and date functions
+  - `fstream` – for file input/output
+  - File Handling – to persist all logs in a `.txt` file
+  - Object-Oriented Programming concepts:
+    - Classes & Objects
+    - Inheritance
+    - Polymorphism
+
