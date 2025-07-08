@@ -33,13 +33,13 @@ A simple yet efficient **console-based Parking Management System** built using *
 
 ## Output Format
 
-Status: Unparked/Parked
-Vehicle No.: 
-Type       :
-Owner      : 
-Entry Time : 
-Exit Time  : 
-Bill Paid  : 
+- Status: Unparked/Parked
+- Vehicle No.: 
+- Type       :
+- Owner      : 
+- Entry Time : 
+- Exit Time  : 
+- Bill Paid  : 
 
 ---
 
